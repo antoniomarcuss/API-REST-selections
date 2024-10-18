@@ -1,5 +1,5 @@
 
-# Criação da API REST-FULL
+# Criação de uma API REST-FULL
 
 Neste projeto, criei uma API RESTful utilizando Node.js com o framework Express para implementar o backend. A API é responsável por gerenciar seleções, permitindo operações de CRUD (Create, Read, Update, Delete). Para o armazenamento de dados, utilizei o banco de dados MySQL, garantindo a persistência das informações.
 
